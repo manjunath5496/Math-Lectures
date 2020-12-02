@@ -181,7 +181,7 @@ Algebra</a></li>
 </tr>
 </tbody>
 </table>
-
+</br>
 <ul>
 <li><strong>Who are the historians?</strong>&nbsp;(<a href="o/historians.pdf" data-smd-id="s2">.pdf file</a>)</li>
 <li><strong>Squaring the Circle: A Case Study</strong>

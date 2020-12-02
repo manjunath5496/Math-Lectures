@@ -103,3 +103,30 @@ Algebra</a></li>
    
   
  </ul>
+</br>
+
+
+<h4>Lecture Notes </h4>
+<ul>
+<li>&nbsp;<a class="links" href="Notes_scattering.pdf" data-smd-id="s1">Scattering theory</a>&nbsp;</li>
+<li>&nbsp;<a class="links" href="Dixmier_traces.pdf" data-smd-id="s2">Dixmier traces</a>&nbsp;</li>
+<li>&nbsp;<a class="links" href="Operators.pdf" data-smd-id="s3">Operator theory on Hilbert spaces</a>&nbsp;</li>
+<li>&nbsp;<a class="links" href="Kth.pdf" data-smd-id="s4">K-theory for C*-algebras, and beyond</a>&nbsp;</li>
+<li>&nbsp;<a class="links" href="Cstar_methods.pdf" data-smd-id="s5">C*-algebraic methods in spectral theory&nbsp;</a></li>
+<li>&nbsp;<a class="links" href="Graph.pdf" data-smd-id="s6">Graph theory</a>&nbsp;</li>
+<li>&nbsp;<a class="links" href="funct_analysis.pdf" data-smd-id="s7">Introduction to functional analysis</a>&nbsp;</li>
+<li>&nbsp;<a class="links" href="Statistics.pdf" data-smd-id="s8">Statistics</a>&nbsp;</li>
+<li>&nbsp;<a class="links" href="Manifold.pdf" data-smd-id="s9">Differential geometry</a></li>
+<li>&nbsp;<a class="links" href="Notes_groups.pdf" data-smd-id="s10">Groups and their representations</a></li>
+<li>&nbsp;<a class="links" href="Lin_algebra.pdf" data-smd-id="s11">Linear algebra</a>&nbsp;</li>
+<li>&nbsp;<a class="links" href="calculus.pdf" data-smd-id="s12">Calculus I</a>&nbsp;</li>
+<li>&nbsp;<a class="links" href="Calculus_II.pdf" data-smd-id="s13">Calculus II: functions of n variables</a>&nbsp;</li>
+</ul>
+
+
+
+
+
+
+
+

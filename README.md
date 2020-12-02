@@ -130,7 +130,22 @@ Algebra</a></li>
 <li><a href="fa090614.pdf" data-smd-id="s7">Functional analysis</a></li>
 <li><a href="jump-processes.pdf" data-smd-id="s8">Lecture notes on jump processes 2014</a></li>
 </ul>
-
+</br>
+<p><strong>D.R. Wilkins: Lecture Notes</strong></p>
+<ul>
+<li><a href="MAU23203_Mich2020_RealNumberSystem_Notes.pdf">Section 1: The Real Number System</a></li>
+<li><a href="MAU23203_Mich2020_SchwarzInequality_Notes.pdf">Section 2: Schwarz's Inequality and some Related Inequalities</a></li>
+<li><a href="MAU23203_Mich2020_MultivariableConvergence_Notes.pdf">Section 3: Convergence in Euclidean Spaces</a></li>
+<li><a href="MAU23203_Mich2020_OpenAndClosedSets_Notes.pdf">Section 4: Open and Closed Sets in Euclidean Spaces</a></li>
+<li><a href="MAU23203_Mich2020_MultivariableLimitsAndContinuity_Notes.pdf">Section 5: Limits and Continuity for Functions of Several Variables</a></li>
+<li><a href="MAU23203_Mich2020_ContinuousOnClosedBounded_Notes.pdf">Section 6: Continuous Functions on Closed Bounded Sets</a></li>
+<li><a href="MAU23203_Mich2020_OneVariableCalculus_Notes.pdf">Section 7: Fundamental Principles of Single Variable Calculus</a></li>
+<li><a href="MAU23203_Mich2020_MultivariableDerivative_Notes.pdf">Section 8: Differentiation of Functions of Several Real Variables</a></li>
+<li><a href="MAU23203_Mich2020_InverseImplicit_Notes.pdf">Section 9: The Inverse and Implicit Function Theorems</a></li>
+<li><a href="DisquisitionOnOpenBallsAndOpenSets.pdf">Disquisition I: On Open Balls and Open Sets</a></li>
+<li><a href="DisquisitionOnOpenAndClosedSetExamples.pdf">Disquisition II: Open and Closed Set Examples</a></li>
+<li><a href="DisquisitionOnExamplesRelatingToLimitsAndContinuity.pdf">Disquisition III: Examples relating to Limits and Continuity</a></li>
+</ul>
 
 
 

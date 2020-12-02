@@ -100,7 +100,7 @@ Algebra</a></li>
     
   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(46).pdf" style="text-decoration:none;">Calculus Lecture notes</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(47).pdf" style="text-decoration:none;">Complex Numbers and the Complex Exponential</a></li>          
-   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/0/Galois-solutions.pdf" style="text-decoration:none;">An Introduction to Galois Theory: Solutions to the exercises</a></li>   
   
  </ul>
 </br>

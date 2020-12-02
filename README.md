@@ -147,7 +147,40 @@ Algebra</a></li>
 <li><a href="DisquisitionOnExamplesRelatingToLimitsAndContinuity.pdf">Disquisition III: Examples relating to Limits and Continuity</a></li>
 </ul>
 
+</br>
 
+<table border="1" frame="hsides" rules="rows" cellpadding="5">
+<tbody>
+<tr>
+<td class="title"><a id="title" href="script-la.pdf">Linear algebra</a></td>
+<td class="pages">&nbsp;</td>
+</tr>
+<tr>
+<td class="title"><a id="title" href="probabilistic-number-theory.pdf">Probabilistic number theory</a></td>
+<td class="pages">&nbsp;</td>
+</tr>
+<tr>
+<td class="title"><a id="title" href="expander-graphs.pdf">Expander graphs</a></td>
+<td class="pages">&nbsp;</td>
+</tr>
+<tr>
+<td class="title"><a id="title" href="representation-theory.pdf">Introduction to representation theory</a></td>
+<td class="pages">&nbsp;</td>
+</tr>
+<tr>
+<td class="title"><a id="title" href="exp-sums.pdf">Exponential sums over finite fields, I: elementary methods</a></td>
+<td class="pages">&nbsp;</td>
+</tr>
+<tr>
+<td class="title"><a id="title" href="http://www.math.ethz.ch/~jteichma/measure-integral_120615.pdf">Measure and integral</a></td>
+<td class="pages">&nbsp;</td>
+</tr>
+<tr>
+<td class="title"><a id="title" href="spectral-theory.pdf">Spectral theory in Hilbert spaces</a></td>
+<td class="pages">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 
 

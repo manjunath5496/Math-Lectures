@@ -182,5 +182,41 @@ Algebra</a></li>
 </tbody>
 </table>
 
-
+<ul>
+<li><strong>Who are the historians?</strong>&nbsp;(<a href="o/historians.pdf" data-smd-id="s2">.pdf file</a>)</li>
+<li><strong>Squaring the Circle: A Case Study</strong>
+<ol>
+<li>Part I (<a href="o/quad.pdf" data-smd-id="s3">.pdf file</a>)</li>
+<li>Part II (<a href="o/quad2.pdf" data-smd-id="s5">.pdf file</a>)</li>
+<li>Part III (<a href="o/quad3.pdf" data-smd-id="s7">.pdf file</a>)</li>
+</ol>
+</li>
+<li><strong>Polynomial Equations: Another Case Study</strong>
+<ol>
+<li>Part I (<a href="o/polynom.pdf" data-smd-id="s8">.pdf file</a>)</li>
+<li>Part II (<a href="o/polynom2.pdf" data-smd-id="s9">.pdf file</a>)</li>
+<li>Part III (<a href="o/polynom3.pdf" data-smd-id="s10">.pdf file</a>)</li>
+<li>Part IV (<a href="o/polynom4.pdf" data-smd-id="s11">.pdf file</a>)</li>
+</ol>
+</li>
+<li><strong>The Rise of Projective Geometry: Case Study</strong>
+<ol>
+<li>Part I (<a href="o/projgeom.pdf" data-smd-id="s12">.pdf file</a>)</li>
+<li>Part II (<a href="o/projgeom2.pdf" data-smd-id="s13">.pdf file</a>)</li>
+<li>Part III (<a href="o/projgeom3.pdf" data-smd-id="s14">.pdf file</a>)</li>
+</ol>
+</li>
+<li><strong>Dealing with the Infinite</strong>
+<ol>
+<li>Part I (<a href="o/infinity.pdf" data-smd-id="s15">.pdf file</a>)</li>
+<li>Part II (<a href="o/infin2.pdf" data-smd-id="s16">.pdf file</a>)</li>
+</ol>
+</li>
+<li><strong>... The Sequel</strong>
+<ol>
+<li>Part I - Philosophy of Mathematics (<a href="o/phil.pdf" data-smd-id="s17">.pdf file</a>)</li>
+<li>Part II - G&ouml;del's Incompleteness Theorem (<a href="o/phil2.pdf" data-smd-id="s18">.pdf file</a>)</li>
+</ol>
+</li>
+</ul>
 

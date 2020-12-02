@@ -58,5 +58,47 @@ Mathematics: Concepts and Computational Methods</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(24).pdf" style="text-decoration:none;">The Zakon Series on Mathematical Analysis</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(25).pdf" style="text-decoration:none;">Discrete Mathematics: An Open Introduction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(25).pdf" style="text-decoration:none;">Discrete Mathematics: An Open Introduction</a></li>
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(26).pdf" style="text-decoration:none;">Abstract Algebra:
+Theory and Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(27).pdf" style="text-decoration:none;">Real Analysis</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(28).pdf" style="text-decoration:none;">Mathematical Discovery: Volume 1</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(29).pdf" style="text-decoration:none;">Single Variable Calculus: Early Transcendentals</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(30).pdf" style="text-decoration:none;">Calculus/Print version</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(31).pdf" style="text-decoration:none;">Combinatorics Through Guided Discovery </a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(32).pdf" style="text-decoration:none;">
+Differential Equations</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(33).pdf" style="text-decoration:none;">Elementary Differential Equations</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(34).pdf" style="text-decoration:none;">A First Course in Linear Algebra</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(35).pdf" style="text-decoration:none;">Elementary Standard ML</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(36).pdf" style="text-decoration:none;">An Introduction to Functional Programming Through Lambda Calculus</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(37).pdf" style="text-decoration:none;">Differential Calculus and Sage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(38).pdf" style="text-decoration:none;">Contemporary Calculus</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(39).pdf" style="text-decoration:none;">Measure, Integration
+and Real Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(40).pdf" style="text-decoration:none;">Calculus Refresher</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(41).pdf" style="text-decoration:none;">Elementary Real Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(42).pdf" style="text-decoration:none;">The Calculus Integral</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(43).pdf" style="text-decoration:none;">Theory of the integral</a></li>
+    
+      
+   
+   
+   
+   
+   
+   
+   
  </ul>

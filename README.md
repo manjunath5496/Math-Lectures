@@ -219,4 +219,10 @@ Algebra</a></li>
 </ol>
 </li>
 </ul>
-
+</br>
+<ul>
+<li><a href="o/3q-notes.pdf" data-smd-id="s1">Algebra and Number Theory</a></li>
+<li><a href="o/2q-notes.pdf" data-smd-id="s2">Groups and symmetry</a></li>
+<li><a href="o/2w-notes.pdf" data-smd-id="s3">Basic Linear Algebra</a></li>
+<li><a href="o/chaincomplexes.pdf" data-smd-id="s4">Notes on chain complexes</a></li>
+</ul>

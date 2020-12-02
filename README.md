@@ -98,12 +98,8 @@ SAGE</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(45).pdf" style="text-decoration:none;">Open Resources for Community College
 Algebra</a></li>
     
-           
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(46).pdf" style="text-decoration:none;">Calculus Lecture notes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(47).pdf" style="text-decoration:none;">Complex Numbers and the Complex Exponential</a></li>          
    
-   
-   
-   
-   
-   
-   
+  
  </ul>

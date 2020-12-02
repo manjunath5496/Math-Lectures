@@ -121,9 +121,6 @@ Algebra</a></li>
 <li>&nbsp;<a class="links" href="Lin_algebra.pdf" data-smd-id="s11">Linear algebra</a>&nbsp;</li>
 <li>&nbsp;<a class="links" href="calculus.pdf" data-smd-id="s12">Calculus I</a>&nbsp;</li>
 <li>&nbsp;<a class="links" href="Calculus_II.pdf" data-smd-id="s13">Calculus II: functions of n variables</a>&nbsp;</li>
-</ul>
-</br>
-<ul>
 <li><a href="gradprob.pdf" data-smd-id="s1">Graduate Probability</a></li>
 <li><a href="complex.pdf" data-smd-id="s2">Complex analysis</a></li>
 <li><a href="finlmath.pdf" data-smd-id="s3">Financial mathematics</a></li>

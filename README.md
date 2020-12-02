@@ -226,3 +226,71 @@ Algebra</a></li>
 <li><a href="o/2w-notes.pdf" data-smd-id="s3">Basic Linear Algebra</a></li>
 <li><a href="o/chaincomplexes.pdf" data-smd-id="s4">Notes on chain complexes</a></li>
 </ul>
+</br>
+
+<h4>Massachusetts Institute of Technology</h4>
+<ul>
+<li>
+<p><strong>(18.218) Topics in Combinatorics</strong>&nbsp;<a href="notes/MIT-18-218.pdf">(pdf)</a><br />Taught by Alex Postnikov. Spring 2017.</p>
+</li>
+<li>
+<p><strong>(18.435) Quantum Computation</strong>&nbsp;<a href="notes/MIT-18-435.pdf">(pdf)</a><br />Taught by Seth Lloyd. Fall 2015.</p>
+</li>
+<li>
+<p><strong>(18.757) Representations of Lie Algebras</strong>&nbsp;<a href="notes/MIT-18-757.pdf">(pdf)</a><br />Taught by Laura Rider. Spring 2016.</p>
+</li>
+<li>
+<p><strong>(18.786) Number Theory II</strong>&nbsp;<a href="notes/MIT-18-786.pdf">(pdf, incomplete)</a><br />Taught by Andrew Sutherland. Spring 2018. These notes are very far from complete.</p>
+</li>
+<li>
+<p><strong>(18.950) Differential Geometry</strong>&nbsp;<a href="notes/MIT-18-950.pdf">(pdf)</a><br />Taught by Xin Zhou. Fall 2015.</p>
+</li>
+<li>
+<p><strong>(SCUM) Student Colloqium in Mathematics</strong>&nbsp;<a href="notes/SCUM.pdf">(pdf)</a><br />Not a class, but free dinner and math lectures every Wednesday.</p>
+</li>
+</ul>
+<h4>Harvard College</h4>
+<ul>
+<li>
+<p><strong>(Math 55a) Honors Abstract and Linear Algebra</strong>&nbsp;<a href="notes/Harvard-55a.pdf">(pdf)</a><br />Taught by Dennis Gaitsgory. Fall 2014.</p>
+</li>
+<li>
+<p><strong>(Math 55b) Honors Real and Complex Analysis</strong>&nbsp;<a href="notes/Harvard-55b.pdf">(pdf)</a><br />Taught by Dennis Gaitsgory. Spring 2015.</p>
+</li>
+<li>
+<p><strong>(Math 129) Number Fields</strong>&nbsp;<a href="notes/Harvard-129.pdf">(pdf)</a><br />Taught by Mark Kisin. Spring 2015.</p>
+</li>
+<li>
+<p><strong>(Math 137) Algebraic Geometry</strong>&nbsp;<a href="notes/Harvard-137.pdf">(pdf)</a><br />Taught by Yaim Cooper. Spring 2015.</p>
+</li>
+<li>
+<p><strong>(Math 145a) Set Theory</strong>&nbsp;<a href="notes/Harvard-145a.pdf">(pdf)</a><br />Taught by Peter Koellner. Fall 2014.</p>
+</li>
+<li>
+<p><strong>(Math 145b) Set Theory II</strong>&nbsp;<a href="notes/Harvard-145b.pdf">(pdf)</a><br />Taught by Peter Koellner. Spring 2015.</p>
+</li>
+</ul>
+<h4>University of California Berkeley</h4>
+<ul>
+<li>
+<p><strong>(Math 104) Introduction to Real Analysis</strong>&nbsp;<a href="notes/UCB104.pdf">(pdf)</a><br />Taught by Charles Pugh. Fall 2013.</p>
+</li>
+<li>
+<p><strong>(Math H113) Honors Introduction to Abstract Algebra</strong>&nbsp;<a href="notes/UCBH113.pdf">(pdf)</a><br />Taught by Kelli Talaska. Spring 2012.</p>
+</li>
+<li>
+<p><strong>(Math 249) Algebraic Combinatorics</strong>&nbsp;<a href="notes/UCB249.pdf">(pdf)</a><br />Taught by Lauren Williams. Fall 2013.</p>
+</li>
+</ul>
+<h4>San Jose State University</h4>
+<ul>
+<li>
+<p><strong>(Math 179) Intro to Graph Theory</strong>&nbsp;<a href="notes/SJSU179.pdf">(pdf)</a><br />Taught by Wasin So. Spring 2013.</p>
+</li>
+<li>
+<p><strong>(Math 275) Algebraic Topology</strong>&nbsp;<a href="notes/SJSU275.pdf">(pdf)</a><br />Taught by Richard Kulbelka. Fall 2012</p>
+</li>
+</ul>
+
+
+

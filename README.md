@@ -122,8 +122,17 @@ Algebra</a></li>
 <li>&nbsp;<a class="links" href="calculus.pdf" data-smd-id="s12">Calculus I</a>&nbsp;</li>
 <li>&nbsp;<a class="links" href="Calculus_II.pdf" data-smd-id="s13">Calculus II: functions of n variables</a>&nbsp;</li>
 </ul>
-
-
+</br>
+<ul>
+<li><a href="gradprob.pdf" data-smd-id="s1">Graduate Probability</a></li>
+<li><a href="complex.pdf" data-smd-id="s2">Complex analysis</a></li>
+<li><a href="finlmath.pdf" data-smd-id="s3">Financial mathematics</a></li>
+<li><a href="elemprob.pdf" data-smd-id="s4">Undergraduate probability</a></li>
+<li><a href="pdeprob.pdf" data-smd-id="s5">PDE from a probability point of view</a><a href="elemprob.pdf" data-smd-id="s4">&nbsp;</a></li>
+<li><a href="cornell.pdf" data-smd-id="s6">Lecture notes for the Cornell Summer School in Probability 2007</a></li>
+<li><a href="fa090614.pdf" data-smd-id="s7">Functional analysis</a></li>
+<li><a href="jump-processes.pdf" data-smd-id="s8">Lecture notes on jump processes 2014</a></li>
+</ul>
 
 
 

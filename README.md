@@ -93,7 +93,12 @@ and Real Analysis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(42).pdf" style="text-decoration:none;">The Calculus Integral</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(43).pdf" style="text-decoration:none;">Theory of the integral</a></li>
     
-      
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(44).pdf" style="text-decoration:none;">Introductory Differential Equations using
+SAGE</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(45).pdf" style="text-decoration:none;">Open Resources for Community College
+Algebra</a></li>
+    
+           
    
    
    

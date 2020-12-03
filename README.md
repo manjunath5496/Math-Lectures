@@ -102,6 +102,35 @@ Algebra</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(47).pdf" style="text-decoration:none;">Complex Numbers and the Complex Exponential</a></li>          
    <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/o/Galois-solutions.pdf" style="text-decoration:none;">An Introduction to Galois Theory: Solutions to the exercises</a></li>   
   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(48).pdf" style="text-decoration:none;">Armstrong Calculus</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(49).pdf" style="text-decoration:none;">Calculus: Volume 1</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(50).pdf" style="text-decoration:none;">Calculus: Volume 2</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(51).pdf" style="text-decoration:none;">Calculus: Volume 3</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(52).pdf" style="text-decoration:none;">College Algebra</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(53).pdf" style="text-decoration:none;">Dalton State College APEX Calculus</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(54).pdf" style="text-decoration:none;">Elementary Algebra </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(55).pdf" style="text-decoration:none;">Fundamentals of Mathematics</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(56).pdf" style="text-decoration:none;">College Algebra &minus; Version [π] Corrected Edition</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(57).pdf" style="text-decoration:none;">Prealgebra</a></li>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
  </ul>
 </br>
 

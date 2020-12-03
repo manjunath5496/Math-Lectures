@@ -29,7 +29,7 @@ with Randomization and Simulation</a></li>
 How to Tell the Truth with Statistics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(12).pdf" style="text-decoration:none;">Learning statistics with R:
 A tutorial for psychology students and other beginners</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(13).pdf" style="text-decoration:none;">The Trillia Lectures on Mathematics
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(13).pdf" style="text-decoration:none;">
 An Introduction to the Theory of Numbers</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(14).pdf" style="text-decoration:none;">Multivariable Calculus</a></li>

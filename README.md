@@ -231,7 +231,20 @@ Volume II</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(105).pdf" style="text-decoration:none;">
 Basic Concepts of Enriched Category Theory</a></li>    
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(106).pdf" style="text-decoration:none;">Convex Optimization</a></li> 
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(107).pdf" style="text-decoration:none;">Convex Optimization: Lecture slides</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(109).pdf" style="text-decoration:none;">Mathematical
+Analysis: Volume I</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(108).pdf" style="text-decoration:none;">Mathematical
+Analysis: Volume II</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(110).pdf" style="text-decoration:none;">Basic Concepts of
+Mathematics</a></li>  
+     
   
   
   

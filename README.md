@@ -259,7 +259,14 @@ Mathematics</a></li>
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(117).pdf" style="text-decoration:none;">Basic probability theory</a></li>  
    
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(118).pdf" style="text-decoration:none;">Differential Equations Notes</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(119).pdf" style="text-decoration:none;">Linear Algebra Notes</a></li> 
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(120).pdf" style="text-decoration:none;">Discrete Math Notes</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(121).pdf" style="text-decoration:none;">Advanced Calculus Notes</a></li>   
+   
   
   
  </ul>

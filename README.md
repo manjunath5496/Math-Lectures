@@ -157,6 +157,13 @@ An Investigation of Functions</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(72).pdf" style="text-decoration:none;">Statistics
 Using Technology</a></li>                              
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(73).pdf" style="text-decoration:none;">Elementary College Geometry</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(74).pdf" style="text-decoration:none;">Introductory Statistics</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(75).pdf" style="text-decoration:none;">A First Course in Linear Algebra:
+an Open Text</a></li>                              
   
   
    

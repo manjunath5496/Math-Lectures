@@ -129,6 +129,10 @@ Algebra</a></li>
 <li><a href="cornell.pdf" data-smd-id="s6">Lecture notes for the Cornell Summer School in Probability 2007</a></li>
 <li><a href="fa090614.pdf" data-smd-id="s7">Functional analysis</a></li>
 <li><a href="jump-processes.pdf" data-smd-id="s8">Lecture notes on jump processes 2014</a></li>
+<li><a href="2/JonV.pdf" data-smd-id="s7">Complex structures on a vector space</a></li>
+<li><a href="2/siegel.pdf" data-smd-id="s8">Siegel half-plane</a></li>
+<li><a href="2/metrics.pdf" data-smd-id="s9">Conformal metrics and hyperbolic geometry</a>&nbsp;</li>
+<li><a href="2/cech.pdf" data-smd-id="s11">Čech cohomology and de&nbsp;Rham's theorem</a>&nbsp;</li>  
 </ul>
 </br>
 <p><strong>D.R. Wilkins: Lecture Notes</strong></p>

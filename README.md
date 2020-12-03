@@ -120,8 +120,15 @@ Algebra</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(57).pdf" style="text-decoration:none;">Prealgebra</a></li>
  
-  
-  
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(58).pdf" style="text-decoration:none;">Arithmetic for College Students</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(59).pdf" style="text-decoration:none;">Basic Arithmetic Workbook</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(60).pdf" style="text-decoration:none;">Beginning and Intermediate Algebra</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(61).pdf" style="text-decoration:none;">Introductory Algebra Workbook</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(62).pdf" style="text-decoration:none;">Intermediate Algebra Workbook</a></li>  
+   
   
   
   

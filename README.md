@@ -514,7 +514,17 @@ Mathematics</a></li>
 </tr>
 </tbody>
 </table>
-
-
+</br>
+<h4>Lectures on Statistics</h4>
+<ul>
+<li><a href="StatPref.pdf" data-smd-id="s2">Preface and Table of Contents</a></li>
+<li><a href="StatLec1-5.pdf" data-smd-id="s3">Lectures 1-5</a></li>
+<li><a href="StatLec6-10.pdf" data-smd-id="s4">Lectures 6-10</a></li>
+<li><a href="StatLec11-15.pdf" data-smd-id="s5">Lectures 11-15</a></li>
+<li><a href="StatLec16-20.pdf" data-smd-id="s6">Lectures 16-20</a></li>
+<li><a href="StatLec21-25.pdf" data-smd-id="s7">Lectures 21-25</a></li>
+<li><a href="StatSols.pdf" data-smd-id="s8">Solutions to Problems</a></li>
+<li><a href="StatIndex.pdf" data-smd-id="s9">Index</a></li>
+</ul>
 
 

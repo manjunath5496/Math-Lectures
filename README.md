@@ -149,7 +149,17 @@ Calculus</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(69).pdf" style="text-decoration:none;">Precalculus:
 An Investigation of Functions</a></li>                              
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(70).pdf" style="text-decoration:none;">Active Calculus</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(71).pdf" style="text-decoration:none;">Math in Society</a></li> 
+ 
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(72).pdf" style="text-decoration:none;">Statistics
+Using Technology</a></li>                              
+
+  
+  
+   
   
   
   

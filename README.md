@@ -133,6 +133,7 @@ Algebra</a></li>
 <li><a href="2/siegel.pdf" data-smd-id="s8">Siegel half-plane</a></li>
 <li><a href="2/metrics.pdf" data-smd-id="s9">Conformal metrics and hyperbolic geometry</a>&nbsp;</li>
 <li><a href="2/cech.pdf" data-smd-id="s11">Čech cohomology and de&nbsp;Rham's theorem</a>&nbsp;</li>  
+<li><a href="2/Roscoffslides.pdf" data-smd-id="s11">Applications of Delaunay triangulations to Teichmuller theory</a>&nbsp;</li>  
 </ul>
 </br>
 <p><strong>D.R. Wilkins: Lecture Notes</strong></p>

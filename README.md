@@ -178,7 +178,58 @@ How to Think Like a Computer Scientist</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(80).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist:
 Learning with Python</a></li> 
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(81).pdf" style="text-decoration:none;">Notes on Basic 3-Manifold Topology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(82).pdf" style="text-decoration:none;">Advanced Calculus</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(83).pdf" style="text-decoration:none;">Analysis of Functions of a Single Variable</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(84).pdf" style="text-decoration:none;">Information Theory, Inference, and Learning Algorithms</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(85).pdf" style="text-decoration:none;">Analytic
+Combinatorics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(86).pdf" style="text-decoration:none;">Elements of
+Abstract and Linear Algebra</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(87).pdf" style="text-decoration:none;">Notes on Diffy Qs: Differential Equations for Engineers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(88).pdf" style="text-decoration:none;">Elementary Calculus: An Infinitesimal Approach</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(89).pdf" style="text-decoration:none;">Lie algebras</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(90).pdf" style="text-decoration:none;">Mathematical Tools for Physics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(91).pdf" style="text-decoration:none;">Mathematical Biology</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(92).pdf" style="text-decoration:none;">A Computational Introduction to Number Theory and Algebra</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(93).pdf" style="text-decoration:none;"> A Problem Course
+in Mathematical Logic</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(94).pdf" style="text-decoration:none;">Grinstead and Snell's Introduction to Probability</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(95).pdf" style="text-decoration:none;">Proofs
+and Concepts: the fundamentals of abstract mathematics</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(96).pdf" style="text-decoration:none;">Theory of functions of a real variable</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(97).pdf" style="text-decoration:none;">
+An Introduction to Probability and Random Processes</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(98).pdf" style="text-decoration:none;">Notes on Introductory Point-Set Topology</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(99).pdf" style="text-decoration:none;">Abstract and Concrete Categories: The Joy of Cats</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(100).pdf" style="text-decoration:none;">Elementary Differential Equations with Boundary Value Problems</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(101).pdf" style="text-decoration:none;">Introduction to Real Analysis</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(102).pdf" style="text-decoration:none;">Introduction to Calculus: Volume I</a></li> 
+  
    
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(103).pdf" style="text-decoration:none;">Introduction to Calculus:
+Volume II</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(104).pdf" style="text-decoration:none;">Abelian categories</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(105).pdf" style="text-decoration:none;">
+Basic Concepts of Enriched Category Theory</a></li>    
   
   
   

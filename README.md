@@ -245,7 +245,20 @@ Analysis: Volume II</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(110).pdf" style="text-decoration:none;">Basic Concepts of
 Mathematics</a></li>  
      
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(111).pdf" style="text-decoration:none;">Abstract Algebra: The Basic Graduate Year</a></li> 
   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(112).pdf" style="text-decoration:none;">A Course In Algebraic Number Theory</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(113).pdf" style="text-decoration:none;">A Course In Commutative Algebra</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(114).pdf" style="text-decoration:none;">Complex Variables</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(115).pdf" style="text-decoration:none;">A Pari/GP Tutorial</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(116).pdf" style="text-decoration:none;">Real Variables with Basic Metric Space Topology</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(117).pdf" style="text-decoration:none;">Basic probability theory</a></li>  
+   
   
   
   

@@ -303,3 +303,58 @@ Algebra</a></li>
 </br>
 <p>Complex numbers&nbsp;<a href="2/cplx.pdf" data-smd-id="s15">pdf</a>&nbsp;<br />Open sets, closed sets, and continuity&nbsp;<a href="2/open.pdf" data-smd-id="s17">pdf</a>&nbsp;<br />Euler's identity and derivatives&nbsp;<a href="2/euler_deriv.pdf" data-smd-id="s19">pdf</a>&nbsp;<br />Limits of rational functions&nbsp;<a href="2/lim.pdf" data-smd-id="s21">pdf</a>&nbsp;<br />Geometry of systems of linear equations&nbsp;<a href="2/geom.pdf" data-smd-id="s23">pdf</a>&nbsp;<br />Fundamental Theorem of Linear Algebra, and graphing&nbsp;<a href="2/ftla_graph.pdf" data-smd-id="s25">pdf</a>&nbsp;<br />Abstract vector spaces (class lecture)&nbsp;<a href="2/lecture051013.pdf" data-smd-id="s27">pdf</a>&nbsp;<br />Newton's method&nbsp;<a href="2/newton.pdf" data-smd-id="s29">pdf</a>&nbsp;<br />Inverse Function Theorem&nbsp;<a href="2/invfnthm.pdf" data-smd-id="s31">pdf</a>&nbsp;<br />Manifolds&nbsp;<a href="2/mflds.pdf" data-smd-id="s33">pdf</a>&nbsp;<br />Proof of Taylor's Theorem for real-valued&nbsp;<em>C<sup>k</sup></em>-functions of several variables&nbsp;<a href="2/taylor.pdf" data-smd-id="s35">pdf</a>&nbsp;<br />Taylor's theorem with tensors&nbsp;<a href="2/tensor.pdf" data-smd-id="s37">pdf</a>&nbsp;<br />Gaussian curvature of surfaces&nbsp;<a href="2/curv.pdf" data-smd-id="s39">pdf</a>&nbsp;</p>
 <p><a href="2/223.Final.pdf" data-smd-id="s41">Final</a><br /><a href="2/223.Final.Sol.pdf" data-smd-id="s42">Solutions to Final</a></p>
+
+</br>
+
+<h2>Lecture Notes in Mathematical Sciences</h2>
+<table border="0">
+<tbody>
+<tr valign="top">
+<td width="26">1</td>
+<td>Saal, J&uuml;rgen:&nbsp;<span id="MathJax-Element-1-Frame" class="mjx-chtml MathJax_CHTML" style="margin: 0px; padding: 1px 0px; font-style: normal; font-variant: inherit; font-weight: normal; font-stretch: inherit; font-size: 13.52px; line-height: 0; font-family: inherit; vertical-align: baseline; display: inline-block; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; overflow-wrap: normal; word-spacing: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; position: relative;" tabindex="0" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi class=&quot;MJX-tex-caligraphic&quot; mathvariant=&quot;script&quot;&gt;R&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;"><span id="MJXc-Node-1" class="mjx-math"><span id="MJXc-Node-2" class="mjx-mrow"><span id="MJXc-Node-3" class="mjx-texatom"><span id="MJXc-Node-4" class="mjx-mrow"><span id="MJXc-Node-5" class="mjx-mi"><span class="mjx-char MJXc-TeX-cal-R">R</span></span></span></span></span></span></span>-Boundedness,&nbsp;<span id="MathJax-Element-2-Frame" class="mjx-chtml MathJax_CHTML" style="margin: 0px; padding: 1px 0px; font-style: normal; font-variant: inherit; font-weight: normal; font-stretch: inherit; font-size: 13.52px; line-height: 0; font-family: inherit; vertical-align: baseline; display: inline-block; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; overflow-wrap: normal; word-spacing: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; position: relative;" tabindex="0" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;msup&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;&amp;#x221E;&lt;/mi&gt;&lt;/msup&gt;&lt;/math&gt;"><span class="MJX_Assistive_MathML">H<sup>&infin;</sup></span></span><sup>-</sup>Calculus, Maximal (<span id="MathJax-Element-3-Frame" class="mjx-chtml MathJax_CHTML" style="margin: 0px; padding: 1px 0px; font-style: normal; font-variant: inherit; font-weight: normal; font-stretch: inherit; font-size: 13.52px; line-height: 0; font-family: inherit; vertical-align: baseline; display: inline-block; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; overflow-wrap: normal; word-spacing: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; position: relative;" tabindex="0" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;msup&gt;&lt;mi&gt;L&lt;/mi&gt;&lt;mi&gt;p&lt;/mi&gt;&lt;/msup&gt;&lt;/math&gt;"><span class="MJX_Assistive_MathML">L<sup>p</sup></span></span><sup>-</sup>)Regularity and Applications to Parabolic PDE's (Communicated by Y. Giga) [2007,&nbsp;<a class="a-pdf" href="3/lecser1_001.pdf">pdf]</a></td>
+</tr>
+<tr valign="top">
+<td>2</td>
+<td>D. Kaledin: Homological methods in Non-commutative Geometry (Communicated by Y. Kawamata) [2008,&nbsp;<a class="a-pdf" href="3/kaledin-lectures.pdf">pdf</a>]</td>
+</tr>
+<tr valign="top">
+<td height="40">12</td>
+<td>
+<p>Mourad Bellassoued and Masahiro Yamamoto：</p>
+<p>Carleman Estimates for Anisotropic Hyperbolic Systems in Riemannian Manifolds and Applications　[2012,&nbsp;<span class="a-pdf"><a href="3/Lecturenotes12.pdf">pdf</a></span>]</p>
+</td>
+</tr>
+<tr valign="top">
+<td height="40">14</td>
+<td>
+<p>Erwin Bolthausen：</p>
+<p>Topics in Random Walks in Random Environments　[2015,&nbsp;<span class="a-pdf"><a href="3/LN_Tokyo-1-1.pdf">pdf</a></span>]</p>
+</td>
+</tr>
+<tr valign="top">
+<td height="40">15</td>
+<td>
+<p>Piotr Rybka：</p>
+<p>The&nbsp;<em>BV</em>&nbsp;space in variational and evolution problems [2018,&nbsp;<span class="a-pdf"><a href="3/lecture%20note%2015.pdf">pdf</a></span>]</p>
+</td>
+</tr>
+<tr valign="top">
+<td height="40">16</td>
+<td>
+<p>Todd Fisher, Boris Hasselblatt：</p>
+<p>Hyperbolic flows [2018,&nbsp;<span class="a-pdf"><a href="3/lecturenotes16-hasselblatt.pdf">pdf</a></span>]</p>
+</td>
+</tr>
+<tr valign="top">
+<td height="40">17</td>
+<td>
+<p>Yukio Matsumoto：</p>
+<p>TEICHM&Uuml;LLER SPACES AND CRYSTALLOGRAPHIC GROUPS [2019,&nbsp;<span class="a-pdf"><a href="3/lecturenotes17-matsumoto.pdf">pdf</a></span>]</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+

@@ -165,6 +165,18 @@ Using Technology</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(75).pdf" style="text-decoration:none;">A First Course in Linear Algebra:
 an Open Text</a></li>                              
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(76).pdf" style="text-decoration:none;">Think OS: A Brief Introduction to Operating Systems</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(77).pdf" style="text-decoration:none;">Physical Modeling in MATLAB</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(78).pdf" style="text-decoration:none;">Think Python:
+How to Think Like a Computer Scientist</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(79).pdf" style="text-decoration:none;">Think C++</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(80).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist:
+Learning with Python</a></li> 
   
    
   

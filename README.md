@@ -130,7 +130,25 @@ Algebra</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(62).pdf" style="text-decoration:none;">Intermediate Algebra Workbook</a></li>  
    
   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(63).pdf" style="text-decoration:none;">Active Calculus - Multivariable</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(64).pdf" style="text-decoration:none;">Active Prelude to Calculus</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(65).pdf" style="text-decoration:none;">APEX Calculus</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(66).pdf" style="text-decoration:none;">Applied
+Calculus</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(67).pdf" style="text-decoration:none;">Contemporary Calculus I For the
+students</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(68).pdf" style="text-decoration:none;">Single and Multivariable
+Calculus</a></li> 
+ 
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/math(69).pdf" style="text-decoration:none;">Precalculus:
+An Investigation of Functions</a></li>                              
+
   
   
   
